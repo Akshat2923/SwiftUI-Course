@@ -21,7 +21,7 @@ struct ContentView: View {
     }
 }
 
-// one card
+// one card test
 struct CardView: View {
     var isFaceUp: Bool = false
     var body: some View {
